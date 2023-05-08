@@ -1,0 +1,5 @@
+(* add 1 and 2, store value in 'x', then print 'x' *)
+
+var x;
+x := 1 + 2;
+print x;

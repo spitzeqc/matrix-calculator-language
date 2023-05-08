@@ -1,0 +1,2 @@
+(* scalar multiply a matrix, then print the result *)
+print 2 * [1, 3;];

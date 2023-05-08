@@ -1,0 +1,7 @@
+(* add two matricies together, and then fail to add a number to a matrix *)
+var x;
+var y;
+
+y := [1;] + [2;]; (* this operation will succeed *)
+
+x := 1 + [1;]; (* this operation will throw an error *)

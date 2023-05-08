@@ -1,0 +1,9 @@
+(* store matrix in variable 'x', print 'x', then store item in row 0, column 1 of 'x' into variable 'y', then finally print 'y' *)
+
+var x;
+var y;
+x := [1, 2; 3, 4;];
+print x;
+
+y := x[0,1];
+print y;

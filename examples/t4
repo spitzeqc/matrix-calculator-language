@@ -1,0 +1,4 @@
+(* calculate 1-2+3.5, then print *)
+
+var x;
+print 1-2 + 3.5;

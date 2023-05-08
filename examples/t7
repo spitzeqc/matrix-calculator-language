@@ -1,0 +1,2 @@
+(* integer divide 4 by 4 *)
+print 4/4;
